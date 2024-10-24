@@ -1,0 +1,1 @@
+web: gunicorn bcs2307008_mentor.wsgi --log-file -
